@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Latin Scanner Desktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Latin_Scanner_Desktop_jar</output-path>
+    <root id="archive" name="Latin Scanner Desktop.jar">
+      <element id="module-output" name="Latin Scanner Desktop" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jsoup-1.13.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
